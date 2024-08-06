@@ -1,0 +1,19 @@
+{
+  "name": "patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node build/index.js",
+    "test": "npm run test"
+  },
+  "keywords": [
+    "ts",
+    "patterns"
+  ],
+  "author": "Wiktor Nowak",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
